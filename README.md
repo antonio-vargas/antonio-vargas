@@ -14,17 +14,6 @@ Desarrollador Frontend Senior con +9 años de experiencia construyendo aplicacio
 
 ---
 
-### 🚀 Proyectos Destacados (Pinned Repositories)
-
-- **[MaquinarIA SaaS](#)**: Plataforma de telemetría, gestión y checklists pre-operacionales de maquinaria pesada.  
-  *Stack: NestJS · PostgreSQL · Next.js · TypeScript · Docker*
-- **[Fintech Ledger API](#)**: Microservicio transaccional con control de concurrencia, idempotencia y arquitectura modular.  
-  *Stack: NestJS · PostgreSQL · TypeORM · Vitest*
-- **[Micro-Frontend Module Federation Showcase](#)**: Arquitectura desacoplada en Vue 3 + Vite demostrando orquestación y testing unitario exhaustivo.  
-  *Stack: Vue 3 · Vite · Vitest · Module Federation*
-
----
-
 ### 🌐 Conéctate conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/antoniov92)
